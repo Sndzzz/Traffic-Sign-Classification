@@ -25,7 +25,7 @@ Bu çalışmada Almanya Trafik İşaretleri Veri Seti (GTSRB) kullanılarak traf
 ---
 
 ## Kullanılan Veri Seti  
-Bu projede GTSRB - German Traffic Sign Recognition Benchmark** veri seti kullanılmıştır.  
+Bu projede GTSRB - German Traffic Sign Recognition Benchmark veri seti kullanılmıştır.  
 -Veri Seti Linki: [Kaggle - GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)  
 
 Bu veri seti toplamda 43 farklı trafik işareti sınıfı içermektedir ve modelimiz bu sınıfları doğru şekilde tahmin edebilmektedir.  
